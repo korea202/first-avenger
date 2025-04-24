@@ -1,1 +1,1 @@
-print('Im hulk!')
+for i in range(1, 20+1): print('Im hulk!')
